@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kursovaya Rabota</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="uncorrect_number">Введён неверный номер чайника!</string>
+    <string name="nomobile">Попытка отправить SMS...</string>
+    <string name="nosms">Невозможно отправить SMS!</string>
+    <string name="success">Sms успешно отправлено!</string>
+    <string name="title_activity_starter">Starter</string>
+</resources>
