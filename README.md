@@ -1,1 +1,1 @@
-# kettleV
+# SmartKettle
